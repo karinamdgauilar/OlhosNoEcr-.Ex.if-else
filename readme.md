@@ -4,9 +4,9 @@ Esta composição interativa foi pensada a partir dum conceito que muitos passam
 
 **Condições e Interações Utilizadas**
 1. Posição do Rato (`mouseX`, `mouseY`):
-   - A pupila de cada olho calcula o ângulo face ao cursor, fazendo com que todos os olhos no ecrã acompanhem ativamente e em tempo real a posição de quem interage.
+   - A pupila de cada olho calcula o ângulo face ao cursor, fazendo com que todos os olhos no ecrã acompanhem em tempo real a posição de quem interage.
 2. Clique do Rato (`mousePressed`):
-   - Cada clique do utilizador adiciona um novo olho no ecrã na exata posição onde o rato foi premido.
+   - Cada clique do utilizador adiciona um novo olho no ecrã na posição exata onde o rato foi premido.
 3. Input do Teclado (`keyIsPressed`):
    - Ao manter qualquer tecla premida, a composição transforma-se, enchendo o ecrã inteiro com uma grelha de olhos virados para onde o cursor estiver. 
 
