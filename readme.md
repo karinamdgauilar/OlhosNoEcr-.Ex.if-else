@@ -1,4 +1,4 @@
-# Título
+# Olhos no Ecrâ
 
 Esta composição interativa foi pensada a partir dum conceito que muitos passam no dia-a-dia, a ansiedade social, o sentido constante de alerta e de vigilância. A partir desta ideia acabou por criar-se uma certa metáfora com o nome atribuido. *Olhos no Ecrã*  que podem ser uma crítica ao vicio das tecnolgias, que podem representar a minha perspectiva da ansiedade social, ou que de facto podem ser só literalmente meros olhos no ecrã. 
 
