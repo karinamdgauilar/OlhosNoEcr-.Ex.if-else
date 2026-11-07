@@ -1,3 +1,15 @@
 # Título
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod convallis magna ut pulvinar. Nulla iaculis, metus in semper vestibulum, lorem quam fringilla tellus, eu varius leo dui ac neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed faucibus ultrices ante, ut suscipit est euismod ut. Duis sit amet dictum turpis. Fusce non turpis porta nisi iaculis eleifend. Donec eget lobortis risus. Proin molestie tincidunt elit. Donec a enim ac neque tristique molestie. Sed nibh massa, dignissim at ipsum non, volutpat aliquam erat. Sed tincidunt quis urna a semper. Phasellus leo orci, imperdiet et ullamcorper non, finibus eu nunc. Duis vel ligula ac orci tincidunt aliquam. Suspendisse potenti. Sed congue lectus at aliquet cursus. 
+Esta composição interativa foi pensada a partir dum conceito que muitos passam no dia-a-dia, a ansiedade social, o sentido constante de alerta e de vigilância. A partir desta ideia acabou por criar-se uma certa metáfora com o nome atribuido. *Olhos no Ecrã*  que podem ser uma crítica ao vicio das tecnolgias, que podem representar a minha perspectiva da ansiedade social, ou que de facto podem ser só literalmente meros olhos no ecrã. 
+
+**Condições e Interações Utilizadas**
+1. Posição do Rato (`mouseX`, `mouseY`):
+   - A pupila de cada olho calcula o ângulo face ao cursor, fazendo com que todos os olhos no ecrã acompanhem ativamente e em tempo real a posição de quem interage.
+2. Clique do Rato (`mousePressed`):
+   - Cada clique do utilizador adiciona um novo olho no ecrã na exata posição onde o rato foi premido.
+3. Input do Teclado (`keyIsPressed`):
+   - Ao manter qualquer tecla premida, a composição transforma-se, enchendo o ecrã inteiro com uma grelha de olhos virados para onde o cursor estiver. 
+
+**Fontes e Uso de IA**
+- Documentação de referência: [p5.js Reference](https://p5js.org/reference/)
+- Uso de IA: A inteligência artificial foi utilizada como ferramenta de apoio ao desenvolvimento, especificamente para auxiliar no desenho geométrico e proporcional do olho e na implementação do cálculo trigonométrico para garantir que as pupilas seguem o cursor de forma fluida. 
